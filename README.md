@@ -1,2 +1,5 @@
-# CSM3123-Lab-4
-Lab 4 - Room Database
+# CSM3123 Native Mobile Programming Lab 4
+
+## Name: Ahmad Afif Syahmi bin Ahmad Rozali
+## Matric: S65526
+## Date: 3.12.2024
